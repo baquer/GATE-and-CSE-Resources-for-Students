@@ -118,3 +118,23 @@ width="1000">
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+# C Programming
+
+**Youtude Lectures**
+
+1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
+
+2 :- <a href="https://www.youtube.com/channel/UCkGS_3D0HEzfflFnG0bD24A">Programming in C by Saurabh Shukla</a>
+
+3 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+
+**Ohter Resources**
+
+1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
+
+2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+
+3:- <a href="https://tutorialspoint.com">Tutorial Point</a>
+
+------------------------------------------------------------------------------------------------------------------------------
+
