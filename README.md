@@ -14,11 +14,11 @@ Check Out The Resources
 
 ```ruby
 
-1:- C Programming and Data Structure
+1:- C Programming And Data Structure
 
 2:- Algorithm 
 
-3:- Theory of Automata
+3:- Theory Of Automata
 
 4:- Compiler Design
 
@@ -34,6 +34,21 @@ Check Out The Resources
 
 10:- Computer Architecture/ Organization
 
+(Not Included In Gate Syllabus)
+
+11:- Java
+
+12:- Artificial Intelligence
+
+13 :- Software Engineering
+
+14 :- Micro Processor
+
+15 :- Python
+
+16 :- IOT
+
+17 :- Cloud Computing
 
 ```
 <img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/SIKB.gif"
