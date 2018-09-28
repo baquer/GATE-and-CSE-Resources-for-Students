@@ -36,7 +36,8 @@ Check Out The Resources
 
 
 ```
-
+<img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/SIKB.gif"
+width="1000">
 
 
 # GATE Organizing Institutes (Since 1995)
