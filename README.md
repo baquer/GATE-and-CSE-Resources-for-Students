@@ -37,8 +37,6 @@ Check Out The Resources
 
 ```
 
-<img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/Gate.jpg"
-width="1000">
 
 
 # GATE Organizing Institutes (Since 1995)
