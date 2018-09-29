@@ -55,6 +55,9 @@ Check Out The Resources
 **For GATE Syllabus 
 Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/tree/master/Gate_Syllabus">GATE Syllabus</a>** 
 
+**For GATE Question Papers 
+Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/tree/master/Gate_QuestionPapers">GATE Question Papers</a>**
+
 <img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/SIKB.gif"
 width="1000">
 
