@@ -157,3 +157,26 @@ width="1000">
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+# Data Structute
+
+**Youtude Lectures**
+
+1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
+
+2 :- <a href="https://www.youtube.com/channel/UCu4ztYtW-Bg1KIfcLAULtVQ">Data Structure by Saurabh Shukla</a>
+
+3 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+
+4 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
+
+**Ohter Resources**
+
+1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
+
+2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+
+3:- <a href="https://tutorialspoint.com">Tutorial Point</a>
+
+------------------------------------------------------------------------------------------------------------------------------
+
+
