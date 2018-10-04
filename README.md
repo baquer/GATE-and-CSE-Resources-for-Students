@@ -242,6 +242,26 @@ width="1000">
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+# Computer Architecture
+
+**Youtude Lectures**
+
+1 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
+
+2 :- <a href="https://www.youtube.com/channel/UCYlBcA-4FnMkPoQJQSXENPg">Gate Book</a>
+
+3 :- <a href="https://www.youtube.com/channel/UCQA9tK0nRK1e_Bqg0uETs8A">Well Academy</a>
+
+4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
+
+**Ohter Resources**
+
+1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
+
+2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+
+------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
