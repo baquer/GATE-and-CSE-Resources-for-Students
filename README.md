@@ -1,6 +1,6 @@
 # GATE-and-CSE-Resources-for-Students
 
-**If you are a college student and want to access the full resources of CSE(Computer Science  & Engineering) as well as for GATE (Graduate Aptitude Test Of Engineering) then you are in a right place , here i am going to provide all resources related to GATE and Syllabus of CSE**
+**If you are a college student and want to access the full resources of CSE(Computer Science  & Engineering) as well as for GATE (Graduate Aptitude Test Of Engineering) then you are in a right place , here i am going to provide all resources related to GATE and CSE**
 
 <img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/Computer-Science.jpg"
 width="1000">
