@@ -1,6 +1,6 @@
 # GATE-and-CSE-Resources-for-Students
 
-**If you are a college student and want to access the full resources of CSE(Computer Science  & Engineering) as well as for GATE (Graduate Aptitude Test Of Engineering) then you are in a right place , here i am going to provide all resources related to GATE and CSE**
+**If you are a college student and want to access the full resources of CSE(Computer Science  & Engineering) as well as for GATE (Graduate Aptitude Test Of Engineering) then you are at a right place , here i am going to provide all resources related to GATE and CSE**
 
 <img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/Computer-Science.jpg"
 width="1000">
@@ -34,7 +34,7 @@ Check Out The Resources
 
 10:- Computer Architecture/ Organization
 
-(Not Included In Gate Syllabus)
+(Not Included In Gate)
 
 11:- Java
 
