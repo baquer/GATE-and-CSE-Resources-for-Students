@@ -6,7 +6,7 @@
 width="1000">
 
 ```ruby
-Check Out The Resources
+Check Out The Resources and keep exploring
 
 ```
 
