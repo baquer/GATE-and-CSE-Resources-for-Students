@@ -98,7 +98,7 @@ width="1000">
 # Theory Of Computation
 
 
-**Youtude Lectures**
+**Youtube Lectures**
 
 1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
 
@@ -112,7 +112,7 @@ width="1000">
 
 6 :- <a href="https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A">Neso Academy</a>
 
-**Ohter Resources**
+**Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
 
@@ -122,7 +122,7 @@ width="1000">
 
 # Operating System
 
-**Youtude Lectures**
+**Youtube Lectures**
 
 1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
 
@@ -134,7 +134,7 @@ width="1000">
 
 5 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
 
-**Ohter Resources**
+**Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
 
@@ -144,7 +144,7 @@ width="1000">
 
 # C Programming
 
-**Youtude Lectures**
+**Youtube Lectures**
 
 1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
 
@@ -152,7 +152,7 @@ width="1000">
 
 3 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
 
-**Ohter Resources**
+**Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
 
@@ -164,7 +164,7 @@ width="1000">
 
 # Data Structute
 
-**Youtude Lectures**
+**Youtube Lectures**
 
 1 :- <a href="https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw">MIT OpenSource</a>
 
@@ -174,7 +174,7 @@ width="1000">
 
 4 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
 
-**Ohter Resources**
+**Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
 
@@ -186,7 +186,7 @@ width="1000">
 
 # Digital Design
 
-**Youtude Lectures**
+**Youtube Lectures**
 
 1 :- <a href="https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A">Neso Academy</a>
 
@@ -196,7 +196,7 @@ width="1000">
 
 4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
 
-**Ohter Resources**
+**Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
 
@@ -206,7 +206,7 @@ width="1000">
 
 # DBMS
 
-**Youtude Lectures**
+**Youtube Lectures**
 
 1 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Gate Lectures By Ravindra Babu Ravula</a>
 
@@ -216,7 +216,7 @@ width="1000">
 
 4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
 
-**Ohter Resources**
+**Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
 
@@ -226,7 +226,7 @@ width="1000">
 
 # Compiler Design
 
-**Youtude Lectures**
+**Youtube Lectures**
 
 1 :- <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Gate Lectures By Ravindra Babu Ravula</a>
 
@@ -236,7 +236,7 @@ width="1000">
 
 4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
 
-**Ohter Resources**
+**Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
 
@@ -246,7 +246,7 @@ width="1000">
 
 # Computer Architecture
 
-**Youtude Lectures**
+**Youtube Lectures**
 
 1 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
 
@@ -256,7 +256,7 @@ width="1000">
 
 4 :- <a href="https://www.youtube.com/results?search_query=easy+engineering+classes">Easy Engineering Classes</a>
 
-**Ohter Resources**
+**Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
 
@@ -266,7 +266,7 @@ width="1000">
 
 # Computer Networks
 
-**Youtude Lectures**
+**Youtube Lectures**
 
 1 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
 
@@ -278,7 +278,7 @@ width="1000">
 
 5 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
 
-**Ohter Resources**
+**Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
 
@@ -289,7 +289,7 @@ width="1000">
 
 # Algorithm
 
-**Youtude Lectures**
+**Youtube Lectures**
 
 1 :- <a href="https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA">NPTEL</a>
 
@@ -301,7 +301,7 @@ width="1000">
 
 5 :- <a href="https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ">Knowledge GATE</a>
 
-**Ohter Resources**
+**Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
 
