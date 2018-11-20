@@ -60,6 +60,9 @@ Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Student
 **For GATE Question Papers 
 Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/tree/master/Gate_QuestionPapers">GATE Question Papers</a>**
 
+**For Practice Questions with Solutions 
+Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/tree/master/Practice_Papers">GATE Practice Papers with Solutions</a>**
+
 <img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/SIKB.gif"
 width="1000">
 
