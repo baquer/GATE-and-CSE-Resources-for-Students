@@ -63,7 +63,7 @@ Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Student
 **For Practice Questions with Solutions 
 Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/tree/master/Practice_Papers">GATE Practice Papers with Solutions</a>**
 
-**For Gate 2019 practice question and test series visit these sites
+**For Gate 2019 practice question and test series .
 Click here <a href="https://www.geeksforgeeks.org"> Free Test Series</a>**
 
 
