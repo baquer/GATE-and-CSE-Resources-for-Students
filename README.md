@@ -89,13 +89,13 @@ width="1000">
 |2005	|IIT Bombay|
 |2004	|IIT Delhi|
 |2003	|IIT Madras|
-|2002	|IISc Banglore|
+|2002	|IISc Bangalore|
 |2001	|IIT Kanpur|
 |2000	|IIT Kharagpur|
 |1999	|IIT Bombay|
 |1998	|IIT Delhi|
 |1997	|IIT Madras|
-|1996	|IISc Banglore|
+|1996	|IISc Bangalore|
 |1995	|IIT Kanpur|
 
 # Theory Of Computation
