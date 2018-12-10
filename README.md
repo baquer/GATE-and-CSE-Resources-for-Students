@@ -1,6 +1,6 @@
 # GATE-and-CSE-Resources-for-Students
 
-**If you are a college student and want to access the full resources of CSE(Computer Science  & Engineering) as well as for GATE (Graduate Aptitude Test Of Engineering) then you are at a right place , here i am going to provide all resources related to GATE and CSE**
+**If you are a college student and want to access the full resources of CSE(Computer Science  & Engineering) as well as for GATE (Graduate Aptitude Test Of Engineering) then you are at a right place , here i am going to provide all resources related to GATE and CSE(Computing Science & Engineering)**
 
 <img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/Computer-Science.jpg"
 width="1000">
@@ -62,6 +62,10 @@ Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Student
 
 **For Practice Questions with Solutions 
 Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/tree/master/Practice_Papers">GATE Practice Papers with Solutions</a>**
+
+**For Gate 2019 practice question and test series visit these sites
+Click here <a href="https://www.geeksforgeeks.org"> Free Test Series</a>**
+
 
 <img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/SIKB.gif"
 width="1000">
