@@ -52,6 +52,10 @@ Check Out The Resources and keep exploring
 
 18 :- Engineering Mathematics
 
+19 :- Machine Learning
+
+20 :- System Design
+
 ```
 
 **For GATE Syllabus 
