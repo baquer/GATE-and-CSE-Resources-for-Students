@@ -63,8 +63,18 @@ Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Student
 **For Practice Questions with Solutions 
 Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/tree/master/Practice_Papers">GATE Practice Papers with Solutions</a>**
 
-**For Gate 2019 practice question and test series .
-Click here <a href="https://www.geeksforgeeks.org"> Free Test Series</a>**
+**For question practice and test series .
+Click here <a href="https://practice.geeksforgeeks.org/courses/Sudo-GATE-2020?vC=1"> Free Test Series Sudo Gate</a>**
+
+
+**For Hand written Ravindra Babu Ravula Notes .
+Click here <a href="https://drive.google.com/open?id=1O57SsyEBgvTQwUjXoIfH1UqsabEF0DJl">RBR hand Written Notes All Subjects</a>**
+
+**For Gate Academy Notes .
+Click here <a href="https://drive.google.com/open?id=1pJLUf-SmYzLY1pxDXdCzbCo7xKgvohr1">Gate Academy</a>**
+
+**For PYQ Gate Questions .
+Click here <a href="https://pyq.ravindrababuravula.com/">PYQ RBR</a>**
 
 
 <img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/SIKB.gif"
@@ -75,7 +85,8 @@ width="1000">
 
 | Year | Organizing Institutes|
 |---------|-------------------|
-|2020 |IIT Delhi(as Expected)|
+|2021	|IIT Bombay|
+|2020 |IIT Delhi|
 |2019	|IIT Madras|
 |2018	|IIT Guwahati|
 |2017	|IIT Roorkee|
