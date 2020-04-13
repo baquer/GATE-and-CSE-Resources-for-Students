@@ -67,8 +67,8 @@ Click here <a href="https://github.com/baquer/GATE-and-CSE-Resources-for-Student
 Click here <a href="https://practice.geeksforgeeks.org/courses/Sudo-GATE-2020?vC=1"> Free Test Series Sudo Gate</a>**
 
 
-**For Hand written Ravindra Babu Ravula Notes .
-Click here <a href="https://drive.google.com/open?id=1O57SsyEBgvTQwUjXoIfH1UqsabEF0DJl">RBR hand Written Notes All Subjects</a>**
+**For Hand Written Ravindra Babu Ravula Notes .
+Click here <a href="https://drive.google.com/open?id=1O57SsyEBgvTQwUjXoIfH1UqsabEF0DJl">RBR Hand Written Notes (All Subjects)</a>**
 
 **For Gate Academy Notes .
 Click here <a href="https://drive.google.com/open?id=1pJLUf-SmYzLY1pxDXdCzbCo7xKgvohr1">Gate Academy</a>**
