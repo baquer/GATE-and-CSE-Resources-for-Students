@@ -113,6 +113,18 @@ width="1000">
 |1996	|IISc Bangalore|
 |1995	|IIT Kanpur|
 
+# Table Of Content
+1. [Theory Of Computation (TOC)](#theory-of-computation)
+2. [Operating System (OS)](#operating-system)
+3. [C Programming (C)](#c-programming)
+4. [Data Structure (DS)](#data-structure)
+5. [Digital Design (DD)](#digital-design)
+6. [Database Management System (DBMS)](#dbms)
+7. [Compiler Design](#compiler-design)
+8. [Computer Architecture (CA)](#computer-architecture)
+9. [Computer Networks (CN)](#computer-networks)
+10. [Algorithms (Algo)](#algorithm)
+
 # Theory Of Computation
 
 
