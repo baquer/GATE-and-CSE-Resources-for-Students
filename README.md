@@ -76,6 +76,9 @@ Click here <a href="https://drive.google.com/open?id=1pJLUf-SmYzLY1pxDXdCzbCo7xK
 **For PYQ Gate Questions .
 Click here <a href="https://pyq.ravindrababuravula.com/">PYQ RBR</a>**
 
+**For Made Easy Theory Notes and Practice Booklet .
+Click here <a href="https://mega.nz/folder/knQEWbxB#_nLz5TMN1zoYWIfEY9whDw">ME Booklet and Theory Book 2020</a>**
+
 
 <img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/SIKB.gif"
 width="1000">
