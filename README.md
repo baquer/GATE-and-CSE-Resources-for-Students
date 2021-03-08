@@ -142,6 +142,8 @@ width="1000">
 
 6 :- <a href="https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A">Neso Academy</a>
 
+7:- <a href="https://www.youtube.com/channel/UCFWCFYvqnAMT-jcCqTp_SlA">Unacademy Computer Science</a>
+
 **Other Resources**
 
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
