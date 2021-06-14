@@ -88,6 +88,7 @@ width="1000">
 
 | Year | Organizing Institutes|
 |---------|-------------------|
+|2022	|IIT Kharagpur|
 |2021	|IIT Bombay|
 |2020 |IIT Delhi|
 |2019	|IIT Madras|
