@@ -411,21 +411,21 @@ width="1000">
 			<li>
 				<a href="https://www.kaggle.com/learn/machine-learning" rel="nofollow">Machine Learning | Kaggle</a>
 			</li>
-			<li>
-				<p dir="auto">
-					<strong>Test ML Models on Datasets</strong>
-				</p>
-				<li>
-					<a href="https://www.kaggle.com/" rel="nofollow">Kaggle</a>
-				</li>
-				<li>
-					<a href="https://archive.ics.uci.edu/ml/datasets.html" rel="nofollow">UCI ML Repository</a>
-				</li>
-				<li>
-					<a href="https://www.data.gov/" rel="nofollow">Data.Gov</a>
-				</li>
-			</li>
 		</ul>
+	</li>
+	<li>
+		<p dir="auto">
+			<strong>Test ML Models on Datasets</strong>
+		</p>
+		<li>
+			<a href="https://www.kaggle.com/" rel="nofollow">Kaggle</a>
+		</li>
+		<li>
+			<a href="https://archive.ics.uci.edu/ml/datasets.html" rel="nofollow">UCI ML Repository</a>
+		</li>
+		<li>
+			<a href="https://www.data.gov/" rel="nofollow">Data.Gov</a>
+		</li>
 	</li>
 </ul>
 
