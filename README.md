@@ -383,7 +383,7 @@ width="1000">
 		</ul>
 	</li>
 </ul>
-<h4 align="left">To Download Book from above link CLICK on the Book Title and then CHOOSE any Gateway</h4>
+				<h4 align="left">To Download Book from above link CLICK on the Book Title and then CHOOSE any Gateway</h4>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
