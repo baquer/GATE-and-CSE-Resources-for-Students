@@ -359,7 +359,7 @@ width="1000">
 		<h3 align="left">Goodrich, Tamassia, Goldwasser</h3>
 		<ul dir="auto">
 			<li>	
-				<a href="https://libgen.is/book/index.php?md5=BB3FCC7E2E1A914F145ABF4F1E020F44" rel="nofollow">Data Structure and Algorithms in Java</a>
+				<a href="https://libgen.is/book/index.php?md5=BB3FCC7E2E1A914F145ABF4F1E020F44" rel="nofollow">Data Structure and Algorithms in Java (Book)</a>
 			</li>
 		</ul>
 	</li>
@@ -367,7 +367,7 @@ width="1000">
 		<h3 align="left">Sedgewick and Wayne</h3>
 		<ul dir="auto">
 			<li>		
-				<a href="https://libgen.is/book/index.php?md5=1813A56FA6860668D1804CE4E1CC6191" rel="nofollow">Algorithms</a>
+				<a href="https://libgen.is/book/index.php?md5=1813A56FA6860668D1804CE4E1CC6191" rel="nofollow">Algorithms (Book)</a>
 			</li>
 			<li>
 				<h4 align="left">Free Coursera course that covers the book (taught by the authors!):</h4>
@@ -383,6 +383,7 @@ width="1000">
 		</ul>
 	</li>
 </ul>
+<h4 align="left">To Download Book from above link CLICK on the Book Title and then CHOOSE any Gateway</h4>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
