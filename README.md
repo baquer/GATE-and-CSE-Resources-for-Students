@@ -81,7 +81,7 @@ Click here <a href="https://mega.nz/folder/knQEWbxB#_nLz5TMN1zoYWIfEY9whDw">ME B
 
 
 <img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/SIKB.gif"
-width="1000">
+width="800">
 
 
 # GATE Organizing Institutes (Since 1995)
