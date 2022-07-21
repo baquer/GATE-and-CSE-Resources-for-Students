@@ -345,6 +345,47 @@ width="1000">
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+<h2 align="left">Java</h2>
+<p dir="auto">Your choice:</p>
+<ul dir="auto">
+	<li>
+		<h3 align="left">freecodecamp</h3>
+		<ul dir="auto">
+			<li>	
+				<a href="https://www.youtube.com/watch?v=GoXwIVyNvX0" rel="nofollow">Intro to Java Programming - Course for Absolute Beginners by freecodecamp</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<h3 align="left">Goodrich, Tamassia, Goldwasser</h3>
+		<ul dir="auto">
+			<li>	
+				<a href="https://libgen.is/book/index.php?md5=BB3FCC7E2E1A914F145ABF4F1E020F44" rel="nofollow">Data Structure and Algorithms in Java</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<h3 align="left">Sedgewick and Wayne</h3>
+		<ul dir="auto">
+			<li>		
+				<a href="https://libgen.is/book/index.php?md5=1813A56FA6860668D1804CE4E1CC6191" rel="nofollow">Algorithms</a>
+			</li>
+			<li>
+				<h4 align="left">Free Coursera course that covers the book (taught by the authors!):</h4>
+				<ul dir="auto">
+					<li>		
+						<a href="https://www.coursera.org/learn/algorithms-part1" rel="nofollow">Algorithms I</a>
+					</li>
+					<li>
+						<a href="https://www.coursera.org/learn/algorithms-part2" rel="nofollow">Algorithms II</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+
+------------------------------------------------------------------------------------------------------------------------------
 
 
 
