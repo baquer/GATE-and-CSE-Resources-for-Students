@@ -416,7 +416,6 @@ width="1000">
 	<li>
 		<h3>Test ML Models on Datasets</h3>
 		<ul dir="auto">
-			</p>
 			<li>
 				<a href="https://www.kaggle.com/" rel="nofollow">Kaggle</a>
 			</li>
@@ -425,6 +424,13 @@ width="1000">
 			</li>
 			<li>
 				<a href="https://www.data.gov/" rel="nofollow">Data.Gov</a>
+			</li>
+		</ul>
+	</li>
+		<h3>Book for Machine Learning</h3>
+		<ul dir="auto">
+			<li>
+				<a href="https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf" rel="nofollow">Introduction to Statistical Learning</a>
 			</li>
 		</ul>
 	</li>
