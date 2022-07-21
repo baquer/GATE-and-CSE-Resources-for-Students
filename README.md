@@ -427,7 +427,9 @@ width="1000">
 			</li>
 		</ul>
 	</li>
-		<h3>Book for Machine Learning</h3>
+		<p dir="auto">
+			<h3>Book for Machine Learning</h3>
+		</p>
 		<ul dir="auto">
 			<li>
 				<a href="https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf" rel="nofollow">Introduction to Statistical Learning</a>
