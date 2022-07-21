@@ -383,10 +383,51 @@ width="1000">
 		</ul>
 	</li>
 </ul>
-				<h4 align="left">To Download Book from above link CLICK on the Book Title and then CHOOSE any Gateway</h4>
+<h4 align="left">To Download Book from above link CLICK on the Book Title and then CHOOSE any Gateway</h4>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+<h1 align="left">Machine Learning</h1>
+<ul dir="auto">
+	<li>
+		<h3 align="left">Best Online Courses</h3>
+		<ul dir="auto">
+			<li>	
+				<a href="http://cs229.stanford.edu/" rel="nofollow">CSE-229 - Stanford University</a>
+			</li>
+			<li>
+				<a href="https://www.coursera.org/learn/machine-learning" rel="nofollow">AndrewNg | Coursera</a>
+				" - Select individual course if it consists of multiple then click on audit below the trial/payment options"
+			</li>
+			<li>
+				<a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v" rel="nofollow">ML with Python | YouTube</a>
+			</li>
+			<li>
+				<a href="https://developers.google.com/machine-learning/crash-course/ml-intro" rel="nofollow">Machine Learning Crash Course | Google Developers</a>
+			</li>
+			<li>
+				<a href="https://www.coursera.org/specializations/data-science-python" rel="nofollow">Applied Data Science with Python Specialization | Coursera</a>
+			</li>
+			<li>
+				<a href="https://www.kaggle.com/learn/machine-learning" rel="nofollow">Machine Learning | Kaggle</a>
+			</li>
+			<li>
+				<p dir="auto">
+					<strong>Test ML Models on Datasets</strong>
+				</p>
+				<li>
+					<a href="https://www.kaggle.com/" rel="nofollow">Kaggle</a>
+				</li>
+				<li>
+					<a href="https://archive.ics.uci.edu/ml/datasets.html" rel="nofollow">UCI ML Repository</a>
+				</li>
+				<li>
+					<a href="https://www.data.gov/" rel="nofollow">Data.Gov</a>
+				</li>
+			</li>
+		</ul>
+	</li>
+</ul>
 
 
 
