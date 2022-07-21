@@ -345,8 +345,7 @@ width="1000">
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-<h2 align="left">Java</h2>
-<p dir="auto">Your choice:</p>
+<h1 align="left">Java</h1>
 <ul dir="auto">
 	<li>
 		<h3 align="left">freecodecamp</h3>
