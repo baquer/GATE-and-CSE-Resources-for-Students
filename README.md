@@ -176,6 +176,8 @@ width="1000">
 
 2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
 
+3:- <a href="https://www.scaler.com/topics/">Scaler Topics</a>
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 # C Programming
