@@ -428,7 +428,7 @@ width="1000">
 		</ul>
 	</li>
 		<p dir="auto">
-			<h3>Book for Machine Learning</h3>
+			<strong>Book for Machine Learning</strong>
 		</p>
 		<ul dir="auto">
 			<li>
