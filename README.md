@@ -81,7 +81,7 @@ Click here <a href="https://mega.nz/folder/knQEWbxB#_nLz5TMN1zoYWIfEY9whDw">ME B
 
 
 <img src="https://github.com/baquer/GATE-and-CSE-Resources-for-Students/blob/master/Images/SIKB.gif"
-width="1000">
+width="800">
 
 
 # GATE Organizing Institutes (Since 1995)
@@ -345,7 +345,97 @@ width="1000">
 
 ------------------------------------------------------------------------------------------------------------------------------
 
+<h1 align="left">Java</h1>
+<ul dir="auto">
+	<li>
+		<h3 align="left">freecodecamp</h3>
+		<ul dir="auto">
+			<li>	
+				<a href="https://www.youtube.com/watch?v=GoXwIVyNvX0" rel="nofollow">Intro to Java Programming - Course for Absolute Beginners by freecodecamp</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<h3 align="left">Goodrich, Tamassia, Goldwasser</h3>
+		<ul dir="auto">
+			<li>	
+				<a href="https://libgen.is/book/index.php?md5=BB3FCC7E2E1A914F145ABF4F1E020F44" rel="nofollow">Data Structure and Algorithms in Java (Book)</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<h3 align="left">Sedgewick and Wayne</h3>
+		<ul dir="auto">
+			<li>		
+				<a href="https://libgen.is/book/index.php?md5=1813A56FA6860668D1804CE4E1CC6191" rel="nofollow">Algorithms (Book)</a>
+			</li>
+			<li>
+				<h4 align="left">Free Coursera course that covers the book (taught by the authors!):</h4>
+				<ul dir="auto">
+					<li>		
+						<a href="https://www.coursera.org/learn/algorithms-part1" rel="nofollow">Algorithms I</a>
+					</li>
+					<li>
+						<a href="https://www.coursera.org/learn/algorithms-part2" rel="nofollow">Algorithms II</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+<h4 align="left">To Download Book from above link CLICK on the Book Title and then CHOOSE any Gateway</h4>
 
+------------------------------------------------------------------------------------------------------------------------------
+
+<h1 align="left">Machine Learning</h1>
+<ul dir="auto">
+	<li>
+		<h3 align="left">Best Online Courses</h3>
+		<ul dir="auto">
+			<li>	
+				<a href="http://cs229.stanford.edu/" rel="nofollow">CSE-229 - Stanford University</a>
+			</li>
+			<li>
+				<a href="https://www.coursera.org/learn/machine-learning" rel="nofollow">AndrewNg | Coursera</a>
+				" - Select individual course if it consists of multiple then click on audit below the trial/payment options"
+			</li>
+			<li>
+				<a href="https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v" rel="nofollow">ML with Python | YouTube</a>
+			</li>
+			<li>
+				<a href="https://developers.google.com/machine-learning/crash-course/ml-intro" rel="nofollow">Machine Learning Crash Course | Google Developers</a>
+			</li>
+			<li>
+				<a href="https://www.coursera.org/specializations/data-science-python" rel="nofollow">Applied Data Science with Python Specialization | Coursera</a>
+			</li>
+			<li>
+				<a href="https://www.kaggle.com/learn/machine-learning" rel="nofollow">Machine Learning | Kaggle</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<h3>Test ML Models on Datasets</h3>
+		<ul dir="auto">
+			<li>
+				<a href="https://www.kaggle.com/" rel="nofollow">Kaggle</a>
+			</li>
+			<li>
+				<a href="https://archive.ics.uci.edu/ml/datasets.html" rel="nofollow">UCI ML Repository</a>
+			</li>
+			<li>
+				<a href="https://www.data.gov/" rel="nofollow">Data.Gov</a>
+			</li>
+		</ul>
+	</li>
+	<li>
+		<h3>Book for Machine Learning</h3>
+		<ul dir="auto">
+			<li>
+				<a href="https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf" rel="nofollow">Introduction to Statistical Learning</a>
+			</li>
+		</ul>
+	</li>
+</ul>
 
 
 
