@@ -178,6 +178,8 @@ width="800">
 
 3:- <a href="https://www.scaler.com/topics/">Scaler Topics</a>
 
+4:- <a href="https://www.interviewbit.com/operating-system-interview-questions/">InterviewBit</a>
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 # C Programming
@@ -197,6 +199,8 @@ width="800">
 2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
 
 3:- <a href="https://tutorialspoint.com">Tutorial Point</a>
+
+4:- <a href="https://www.interviewbit.com/c-interview-questions/">InterviewBit</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -219,6 +223,8 @@ width="800">
 2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
 
 3:- <a href="https://tutorialspoint.com">Tutorial Point</a>
+
+4:- <a href="https://www.interviewbit.com/data-structure-interview-questions/">InterviewBit</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -259,6 +265,8 @@ width="800">
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
 
 2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+
+3:- <a href="https://www.interviewbit.com/dbms-interview-questions/">InterviewBit</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -344,6 +352,8 @@ width="800">
 1:- <a href="https://www.geeksforgeeks.org/">Geeks for Geeks</a>
 
 2:- <a href="https://lecturenotes.in/course/all/1/computer-science-engineering">Lecture Notes</a>
+
+3:- <a href="https://www.interviewbit.com/algorithm-interview-questions/">Algorithm</a>
 
 ------------------------------------------------------------------------------------------------------------------------------
 
