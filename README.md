@@ -269,6 +269,8 @@ width="800">
 
 3:- <a href="https://www.interviewbit.com/dbms-interview-questions/">InterviewBit</a>
 
+4:- <a href="https://www.scaler.com/topics/dbms/">Scaler Topics</a>
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 # Compiler Design
