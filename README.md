@@ -203,6 +203,8 @@ width="800">
 
 4:- <a href="https://www.interviewbit.com/c-interview-questions/">InterviewBit</a>
 
+5:- <a href="https://www.scaler.com/topics/c/">Scaler Topics</a>
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 # Data Structure
