@@ -88,6 +88,7 @@ width="800">
 
 | Year | Organizing Institutes|
 |---------|-------------------|
+|2024	|IISc Bangalore|
 |2023	|IIT Kanpur|
 |2022	|IIT Kharagpur|
 |2021	|IIT Bombay|
